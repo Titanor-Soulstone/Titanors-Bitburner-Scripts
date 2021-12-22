@@ -1,2 +1,3 @@
 # Titanors-Bitburner-Scripts
-Bitburner Scripts that I use
+Repository of Titanors Bitburner scripts
+
